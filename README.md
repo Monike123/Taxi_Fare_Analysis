@@ -28,8 +28,7 @@ The main goals of this project are:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Monike123/Taxi_Fare_Analysis
 ```
 ### OR Direct Download Pkl models for testing
 
