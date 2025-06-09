@@ -1,5 +1,7 @@
 # 🚖 Taxi Trip Price Prediction & Hypothesis Testing
 
+![taxi_1](https://github.com/user-attachments/assets/2fb7ac69-45e5-4e52-97ab-7c3a169bff0a)
+
 This project aims to analyze and model taxi trip data to **predict trip prices** using machine learning and statistical analysis. It includes **data preprocessing, exploratory data analysis (EDA), hypothesis testing**, and the implementation of **linear and polynomial regression models**.
 
 ---
@@ -128,4 +130,5 @@ wget https://github.com/your-username/your-repo-name/raw/main/models/poly_model.
 * Try other models (e.g., Random Forest, XGBoost).
 * Add interactive dashboard with Streamlit or Flask.
 * Enhance feature engineering (e.g., time of day, weekday/weekend).
+![taxi2](https://github.com/user-attachments/assets/738be1d6-3637-47d6-be19-886e1696ecda)
 
