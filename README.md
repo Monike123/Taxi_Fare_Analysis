@@ -6,8 +6,11 @@ This project aims to analyze and model taxi trip data to **predict trip prices**
 
 ---
 
-# Dataset Link
-Kaggle Dataset[https://www.kaggle.com/datasets/denkuznetz/taxi-price-prediction]
+## 📂 Dataset Source
+
+The dataset used for this project is publicly available on Kaggle:  
+👉 [Kaggle Dataset – Taxi Price Prediction](https://www.kaggle.com/datasets/denkuznetz/taxi-price-prediction)
+
 ---
 
 ## 📌 Project Overview
