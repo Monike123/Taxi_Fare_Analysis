@@ -33,9 +33,9 @@ cd your-repo-name
 ```
 ### OR Direct Download Pkl models for testing
 
-wget https://github.com/your-username/your-repo-name/raw/main/models/linear_model.pkl
+[inear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_linear_model.pkl)
 
-wget https://github.com/your-username/your-repo-name/raw/main/models/poly_model.pkl
+[taxi_ploy_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_ploy_linear_model.pkl)
 
 ---
 
