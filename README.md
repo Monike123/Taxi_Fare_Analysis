@@ -33,7 +33,7 @@ cd your-repo-name
 ```
 ### OR Direct Download Pkl models for testing
 
-[inear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_linear_model.pkl)
+[taxi_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_linear_model.pkl)
 
 [taxi_ploy_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_ploy_linear_model.pkl)
 
