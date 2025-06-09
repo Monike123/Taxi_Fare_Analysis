@@ -33,9 +33,9 @@ cd your-repo-name
 ```
 ### OR Direct Download Pkl models for testing
 
-[taxi_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_linear_model.pkl)
+[Taxi_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_linear_model.pkl)
 
-[taxi_ploy_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_ploy_linear_model.pkl)
+[Taxi_polynomial_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_ploy_linear_model.pkl)
 
 ---
 
