@@ -35,7 +35,7 @@ cd your-repo-name
 
 [Taxi_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_linear_model.pkl)
 
-[Taxi_polynomial_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_ploy_linear_model.pkl)
+[Taxi_polynomial_linear_model](https://github.com/Monike123/Taxi_Fare_Analysis/blob/main/taxi_polynomial_linear_model.pkl)
 
 ---
 
