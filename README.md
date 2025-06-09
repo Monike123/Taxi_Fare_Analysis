@@ -15,6 +15,21 @@ The main goals of this project are:
 
 ---
 
+## 🚀 Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+### OR Direct Download Pkl models for testing
+
+wget https://github.com/your-username/your-repo-name/raw/main/models/linear_model.pkl
+
+wget https://github.com/your-username/your-repo-name/raw/main/models/poly_model.pkl
+
+---
+
 ## 🧱 Project Workflow
 
 ### 1. 📥 Data Loading & Preprocessing
@@ -113,17 +128,4 @@ The main goals of this project are:
 * Try other models (e.g., Random Forest, XGBoost).
 * Add interactive dashboard with Streamlit or Flask.
 * Enhance feature engineering (e.g., time of day, weekday/weekend).
-
-## 🚀 Getting Started
-
-### Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-### OR Direct Download Pkl models for testing
-
-wget https://github.com/your-username/your-repo-name/raw/main/models/linear_model.pkl
-
-wget https://github.com/your-username/your-repo-name/raw/main/models/poly_model.pkl
 
